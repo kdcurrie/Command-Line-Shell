@@ -1,4 +1,4 @@
-# Project 2: Command Line Shell
+# Command Line Shell
 
 ## About
 The outermost layer of the operating system is called the shell. In Unix-based systems, the shell is generally a command line interface. Most Linux distributions ship with bash as the default (there are several others: csh, ksh, sh, tcsh, zsh). This program in an implementation of a Unix-based shell named sheesh (shee shell).
